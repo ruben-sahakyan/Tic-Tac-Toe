@@ -1,6 +1,5 @@
 const Main = document.querySelector('.Main');
 const XorO = document.querySelector('.Title > p');
-//console.log(XorO.textContent);
 
 let Count = false;
 
